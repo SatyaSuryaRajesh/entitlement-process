@@ -1,0 +1,101 @@
+[
+  {
+    "role_name": "sysadmin",
+    "eid": 10,
+    "businessunit": "1",
+    "api_name": "onboard_api",
+    "action_name": "api_read",
+    "resource_id": 100,
+    "resource_name": "onboard"
+  },
+  {
+    "role_name": "sysadmin",
+    "eid": 10,
+    "businessunit": "1",
+    "api_name": "onboard_api",
+    "action_name": "api_write",
+    "resource_id": 100,
+    "resource_name": "onboard"
+  },
+  {
+    "role_name": "sysadmin",
+    "eid": 10,
+    "businessunit": "1",
+    "api_name": "onboard_api",
+    "action_name": "api_delete",
+    "resource_id": 100,
+    "resource_name": "onboard"
+  },
+  {
+    "role_name": "member",
+    "eid": 11,
+    "businessunit": "1",
+    "api_name": "onboard_api",
+    "action_name": "api_read",
+    "resource_id": 100,
+    "resource_name": "onboard"
+  },
+  {
+    "role_name": "member",
+    "eid": 11,
+    "businessunit": "1",
+    "api_name": "onboard_api",
+    "action_name": "api_read",
+    "resource_id": 100,
+    "resource_name": "onboard"
+  },
+  {
+    "role_name": "owner",
+    "eid": 12,
+    "businessunit": "1",
+    "api_name": "mule_rules_api",
+    "action_name": "api_update",
+    "resource_id": 101,
+    "resource_name": "mule_rules"
+  },
+  {
+    "role_name": "superuser",
+    "eid": 13,
+    "businessunit": "2",
+    "api_name": "masterview_api",
+    "action_name": "api_read",
+    "resource_id": 102,
+    "resource_name": "masterview"
+  },
+  {
+    "role_name": "superuser",
+    "eid": 13,
+    "businessunit": "2",
+    "api_name": "masterview_api",
+    "action_name": "api_write",
+    "resource_id": 102,
+    "resource_name": "masterview"
+  },
+  {
+    "role_name": "superuser",
+    "eid": 13,
+    "businessunit": "2",
+    "api_name": "masterview_api",
+    "action_name": "api_delete",
+    "resource_id": 102,
+    "resource_name": "masterview"
+  },
+  {
+    "role_name": "superuser",
+    "eid": 13,
+    "businessunit": "2",
+    "api_name": "masterview_api",
+    "action_name": "api_update",
+    "resource_id": 102,
+    "resource_name": "masterview"
+  },
+  {
+    "role_name": "owner",
+    "eid": 12,
+    "businessunit": "1",
+    "api_name": "mule_rules_api",
+    "action_name": "api_read",
+    "resource_id": 101,
+    "resource_name": "mule_rules"
+  }
+]
